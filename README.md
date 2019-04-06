@@ -1,2 +1,2 @@
 # racket-hackerrank-solutions
-Hackerrank Solutions in Racket
+Hackerrank FP Solutions in Racket
