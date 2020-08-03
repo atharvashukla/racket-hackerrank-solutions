@@ -1,5 +1,11 @@
 # racket-hackerrank-solutions
 
+<div align="center">
+<img src="hackerrank-logo.png" width="450" height="auto"/>
+</div>
+<br>
+<br>
+
 [Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
 
 | No.| Problem                                                                                                                                    | Diffficulty | Status   | Solution                                                                     |
