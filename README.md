@@ -1,12 +1,11 @@
 # racket-hackerrank-solutions
 
-<div align="center">
-  <img align="left" src="racket-logo.png" width="100" height="auto"/>
-  <img align="right" src="hackerrank-logo.png" width="450" height="auto"/>
-</div>
 
-<br>
-<br>
+| <img src="racket-logo.png" width="100" height="auto"/> | <img src="hackerrank-logo.png" width="450" height="auto"/> |
+
+
+
+
 
 ## [Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
 
