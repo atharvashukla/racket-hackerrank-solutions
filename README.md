@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="hackerrank-logo.png" width="450" height="auto"/>
+<img src="racket-logo.png" width="450" height="auto"/>
 </div>
 <br>
 <br>
