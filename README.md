@@ -4,10 +4,11 @@
   <img align="left" src="racket-logo.png" width="100" height="auto"/>
   <img align="right" src="hackerrank-logo.png" width="450" height="auto"/>
 </div>
+
 <br>
 <br>
 
-[Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
+## [Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
 
 | No.| Problem                                                                                                                                    | Diffficulty | Status   | Solution                                                                     |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------|------------------------------------------------------------------------------|
