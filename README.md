@@ -1,8 +1,12 @@
 # racket-hackerrank-solutions
 
 
-| <img src="racket-logo.png" width="100" height="auto"/> | <img src="hackerrank-logo.png" width="450" height="auto"/> |
-
+<img src="racket-logo.png" width="100" height="auto"/>
+<br>
+<br>
+<img src="hackerrank-logo.png" width="450" height="auto"/>
+<br>
+<br>
 
 
 
