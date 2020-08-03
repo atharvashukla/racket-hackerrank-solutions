@@ -2,13 +2,7 @@
 
 
 <img src="racket-logo.png" width="100" height="auto"/>
-<br>
-<br>
 <img src="hackerrank-logo.png" width="200" height="auto"/>
-<br>
-<br>
-
-
 
 
 ## [Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
