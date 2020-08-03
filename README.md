@@ -1,6 +1,6 @@
 # racket-hackerrank-solutions
 
-Hackerrank FP Solutions in Racket
+[Hackerrank - Functional Programming](https://www.hackerrank.com/domains/fp)
 
 | No.| Problem                                                                                                                                    | Diffficulty | Status   | Solution                                                                     |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------|------------------------------------------------------------------------------|
